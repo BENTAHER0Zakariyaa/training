@@ -4,9 +4,9 @@ https://www.pexels.com/search/houses/
 
 ### colors :
 
-dark : #212121
-white : #ffffff
-muted : #b2b2b2
+ - dark : #212121
+ - white : #ffffff
+ - muted : #b2b2b2
 
 ### icons :
 
