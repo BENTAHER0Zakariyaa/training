@@ -12,3 +12,11 @@ https://www.pexels.com/search/person/
 ### icons :
 
 https://fontawesome.com/icons
+
+### UI
+
+<image src="./public/images/ui/index.jpg" />
+
+### COLORS
+
+<image src="./public/images/ui/colors.jpg" />
